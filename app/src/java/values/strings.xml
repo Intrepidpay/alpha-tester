@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AI WhatsApp Assistant</string>
+    <string name="accessibility_service_description">Monitors WhatsApp messages for AI responses</string>
+    <string name="notification_channel_name">WhatsApp Monitoring</string>
+    <string name="notification_channel_description">Background service notifications</string>
+    <string name="permission_rationale">Storage access is needed to save images</string>
+</resources>
